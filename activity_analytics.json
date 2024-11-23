@@ -1,14 +1,24 @@
 [
   {
-    "inveniraStdID": 1001,
+    "inveniraStdID": "std_1",
     "quantAnalytics": [
-      { "name": "Questions Attempted", "value": 10 },
-      { "name": "Correct Answers", "value": 8 },
-      { "name": "Time Spent per Question", "value": "15 seconds" }
+      {
+        "name": "Acedeu à atividade",
+        "value": true
+      },
+      {
+        "name": "Pontuação total",
+        "value": 7
+      },
+      {
+        "name": "Percentagem de respostas corretas", 
+        "value": "70.0"
+      }
     ],
     "qualAnalytics": [
-      { "Student activity profile": "https://my-activity-provider.com/profile/1001" },
-      { "Activity Heat Map": "https://my-activity-provider.com/heatmap/1001" }
+      {
+        "Perfil de Desempenho": "https://url-analytics/perfil/std_1"
+      }
     ]
   }
 ]
